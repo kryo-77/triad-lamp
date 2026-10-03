@@ -19,11 +19,14 @@ Inspired by a delta robot's structure, and movement (blades flapping) from Odrad
 
 ## 3D printing
 - `triad-lamp-assembly.stl`: the full combined model of the lamp.
-- Separate Files will be available later once finished properly.
-- Current settings I've printed from:
--   blades (led holders), triangle: black PETG, 20% infill
--   LED diffuser: white PLA
--   L bracket & servo holder: black PETG. 40% infill
+- Separate printable part files are not included yet because the design is still a work in progress. I'll add them once finished.
+  
+### Current print settings:
+-   Blades (led bars), triangle: Black PETG, 20% infill
+-   LED diffuser: White PLA
+-   L bracket & servo holder: Black PETG, 40% infill
 
 ## Dimensions
--   
+- **Triangle:** 14 cm top edge, 10 cm sides, 3 cm thick
+- **Blade:** 15 x 2.5 x 1.5 cm (19 cm total with the servo mount)
+- **L bracket:** 4 cm per arm
