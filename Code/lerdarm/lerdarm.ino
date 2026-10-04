@@ -5,8 +5,8 @@
 #include <Preferences.h>
 
 // ================= CONFIG =================
-const char* WIFI_SSID = "Fiber";
-const char* WIFI_PASS = "16240312";
+const char* ssid     = "SSID";
+const char* password = "PASS";
 const char* HOSTNAME  = "lamp";          // reachable as lamp.local
 const char* AP_SSID   = "Lamp-Setup";    // fallback hotspot if WiFi fails
 const char* AP_PASS   = "lampsetup";     // min 8 chars
