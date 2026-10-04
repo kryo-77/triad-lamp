@@ -7,11 +7,11 @@ Inspired by a delta robot's structure, and movement (blades flapping) from Odrad
 <img width="1920" height="1080" alt="triad_front" src="https://github.com/user-attachments/assets/1938c62d-480f-4875-ad92-7f5055086176" />
 <img width="1920" height="1080" alt="triad_back" src="https://github.com/user-attachments/assets/8c2af4a3-9fd4-4f12-a1cb-75cc3775fb7e" />
 
-##Updates:
+## Updates:
 - Oct 4: Added hand detection which can control LEDs only. Added code files, all 3d print files (f3d format).
 - Oct 3: Created this repo. Added README, combined stl (not for printing). Wrote code for controlling leds, servo, website control.
 
-##To-do list:
+## To-do list:
 - add wiring diagram to repo
 - make changes to mount
 
