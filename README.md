@@ -10,10 +10,11 @@ Inspired by a delta robot's structure, and movement (blades flapping) from Odrad
 ## Updates:
 - Oct 4: Added hand detection which can control LEDs only. Added code files, all 3d print files (f3d format).
 - Oct 3: Created this repo. Added README, combined stl (not for printing). Wrote code for controlling leds, servo, website control.
+- Oct 5: wiring diagram to repo
 
 ## To-do list:
-- add wiring diagram to repo
-- make changes to mount
+- make hand detection work with servos as well
+- make changes to mount (cad)
 
 ## Components used
 - (1x) ESP32 DevKit V1
@@ -22,6 +23,9 @@ Inspired by a delta robot's structure, and movement (blades flapping) from Odrad
 - (1x) 12V battery pack
 - (1x) Step-down converter (12V to 6V for the servos)
 - (3x) MG90 servos
+## Wiring diagram (servos ARE switched)
+<img width="1078" height="798" alt="{A9B57E3E-D54B-4706-AFF7-D16A3712C8A2}" src="https://github.com/user-attachments/assets/e42e3653-ef19-4d57-9651-e6997432cd83" />
+
 
 ## 3D printing
 - `triad-lamp-assembly.stl`: the full combined model of the lamp.
