@@ -32,11 +32,11 @@ Inspired by a delta robot's structure, and movement (blades flapping) from Odrad
 - **Blade:** 15 x 2.5 x 1.5 cm (19 cm total with the servo mount)
 
 
-##IRL demo: 
+## IRL demo: 
 
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/71ba9c96-879c-4597-b8d6-0247b53aa574" />
 <img width="800" height="450" alt="servo_move2" src="https://github.com/user-attachments/assets/ee3655d2-9a5c-4a2a-afa4-ec69be214768" />
 
-##Open-cv hand detection demo (LEDs only):
+## Open-cv hand detection demo (LEDs only):
 <img width="800" height="450" alt="handdec2" src="https://github.com/user-attachments/assets/7911b6ee-f255-4b6e-a609-32a185fa8eb9" />
 
