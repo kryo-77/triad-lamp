@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include "esp_http_server.h"
 
-const char* ssid     = "Fiber";
-const char* password = "16240312";
+const char* ssid     = "SSID";
+const char* password = "PASS";
 
 // AI-Thinker ESP32-CAM pin map
 #define PWDN_GPIO_NUM     32
