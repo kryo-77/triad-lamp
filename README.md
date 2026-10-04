@@ -10,6 +10,11 @@ Inspired by a delta robot's structure, and movement (blades flapping) from Odrad
 ##Updates:
 - Oct 4: Added hand detection which can control LEDs only. Added code files, all 3d print files (f3d format).
 - Oct 3: Created this repo. Added README, combined stl (not for printing). Wrote code for controlling leds, servo, website control.
+
+##To-do list:
+- add wiring diagram to repo
+- make changes to mount
+
 ## Components used
 - (1x) ESP32 DevKit V1
 - (6x) 12V LEDs
