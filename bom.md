@@ -8,7 +8,7 @@
 | 4 | Transistors | 3 |
 | 5 | 12V battery, 1500mAh | 1 | 
 | 6 | MG90 servo | 3 | 
-| 7 | Jumper wires | |
+
 
 ## Notes
 
