@@ -9,7 +9,7 @@ from mediapipe.tasks import python as mp_python
 from mediapipe.tasks.python import vision
 
 #CAM_URL  = "http://192.168.1.10"   # ESP32-CAM IP (from its serial monitor)
-CAM_URL = 1
+CAM_URL = 0
 LAMP_URL = "http://192.168.1.3"    # lamp IP; use the IP, not lamp.local (mDNS lookups on Windows can be slow)
 FLIP_MODE = None   # None = no flip, 1 = mirror, 0 = upside down, -1 = rotate 180
 # ---------- lamp control (background thread so video never stalls) ----------
