@@ -1,10 +1,7 @@
-#,Component,Qty,Store,Link,Unit Price (INR),Total (INR),Total (USD)
-1,ESP32 DevKit V1,1,Amazon.in,https://www.amazon.in/dp/B0GSZ97X5B,617,617,6.39
-2,12V LEDs,6,Amazon.in,https://amzn.in/d/0bF0XOvq,11.67,70,0.72
-3,Step-down converter,1,Robu.in,https://robu.in/product/200w-20a-dc-dc-buck-converter-step-down-module-constant-current-led-driver-module/,400,400,4.14
-4,Transistors (BC547),3,Robu.in,https://robu.in/product/bc547-npn-transistor-pack-of-20/,2.16,6.48,0.07
-5,"12V battery, 1500mAh",1,Amazon.in,https://www.amazon.in/dp/B0HCXJVQJZ,289,289,2.99
-6,MG90S servo,3,Robu.in,https://robu.in/product/towerpro-mg90s-mini-digital-servo-motor-180-rotation-standard-quality/,125,375,3.88
-,,,,,,,
-,TOTAL,,,,,1757.48,18.20
-,Rate used: 1 INR = 0.010356 USD,,,,,,
+#,Component,Qty,Store,Link,,,Price(USD) each
+1,ESP32 DevKit V1,1,Amazon.in,https://www.amazon.in/dp/B0GSZ97X5B,,,$6.52
+2,12V LEDs,6,Amazon.in,https://amzn.in/d/0bF0XOvq,,,$0.83
+3,Step-down converter,1,Robu.in,https://robu.in/product/200w-20a-dc-dc-buck-converter-step-down-module-constant-current-led-driver-module/,,,$4.23
+4,Transistors (BC547),3,Robu.in,https://robu.in/product/bc547-npn-transistor-pack-of-20/,,,$0.02
+5,"12V battery, 1500mAh",1,Amazon.in,https://www.amazon.in/dp/B0HCXJVQJZ,,,$3.05
+6,MG90S servo,3,Robu.in,https://robu.in/product/towerpro-mg90s-mini-digital-servo-motor-180-rotation-standard-quality/,,,$1.32
